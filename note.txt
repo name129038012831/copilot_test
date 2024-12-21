@@ -1,0 +1,23 @@
+def retrieve_and_store_stock_data(ticker, start_date_2, end_date_2,
+                                  db_name='stock_data.db'):
+get_stock_data(ticker, start_date_1, end_date_1, db_name='stock_data.db'):
+
+
+function to read stock list into dataframe
+function to retrieve stock data for a stock, date range, store in db
+function go go though stock list and update database
+
+file 
+db1
+table1
+
+stock  name, fields from info query in yfinace
+
+
+table2
+stock name, date, stock price data
+
+
+text fields
+security.text
+names of securities to monitor
